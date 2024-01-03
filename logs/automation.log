@@ -1,0 +1,56 @@
+19:25:52.588 [main] INFO  api.test.UserTest - ***********************creating user********************
+19:25:56.522 [main] INFO  api.test.UserTest - ***********************user is created********************
+19:25:56.541 [main] INFO  api.test.UserTest - ***********************reading user info********************
+19:25:57.702 [main] INFO  api.test.UserTest - ***********************user info is displayed********************
+19:25:57.707 [main] INFO  api.test.UserTest - ***********************updating user info********************
+19:26:00.059 [main] INFO  api.test.UserTest - ***********************user info is updated********************
+19:26:00.064 [main] INFO  api.test.UserTest - ***********************deleting user info********************
+19:26:01.213 [main] INFO  api.test.UserTest - ***********************user info is deleted********************
+22:37:10.090 [main] INFO  api.test.UserTest - ***********************creating user********************
+22:37:24.938 [main] INFO  api.test.UserTest - ***********************user is created********************
+22:37:24.961 [main] INFO  api.test.UserTest - ***********************reading user info********************
+22:37:27.122 [main] INFO  api.test.UserTest - ***********************user info is displayed********************
+22:37:27.130 [main] INFO  api.test.UserTest - ***********************updating user info********************
+22:37:30.180 [main] INFO  api.test.UserTest - ***********************user info is updated********************
+22:37:30.185 [main] INFO  api.test.UserTest - ***********************deleting user info********************
+22:37:31.636 [main] INFO  api.test.UserTest - ***********************user info is deleted********************
+22:42:53.867 [main] INFO  api.test.UserTest - ***********************creating user********************
+22:43:04.101 [main] INFO  api.test.UserTest - ***********************user is created********************
+22:43:04.175 [main] INFO  api.test.UserTest - ***********************reading user info********************
+22:43:05.956 [main] INFO  api.test.UserTest - ***********************user info is displayed********************
+22:43:05.974 [main] INFO  api.test.UserTest - ***********************updating user info********************
+22:43:09.538 [main] INFO  api.test.UserTest - ***********************user info is updated********************
+22:43:09.551 [main] INFO  api.test.UserTest - ***********************deleting user info********************
+22:43:11.080 [main] INFO  api.test.UserTest - ***********************user info is deleted********************
+23:00:51.641 [main] INFO  api.test.UserTest_PropFile - ***********************creating user********************
+23:00:56.922 [main] INFO  api.test.UserTest_PropFile - ***********************user is created********************
+23:00:56.944 [main] INFO  api.test.UserTest_PropFile - ***********************reading user info********************
+23:00:58.500 [main] INFO  api.test.UserTest_PropFile - ***********************user info is displayed********************
+23:00:58.505 [main] INFO  api.test.UserTest_PropFile - ***********************updating user info********************
+23:01:02.000 [main] INFO  api.test.UserTest_PropFile - ***********************user info is updated********************
+23:01:02.004 [main] INFO  api.test.UserTest_PropFile - ***********************deleting user info********************
+23:01:03.333 [main] INFO  api.test.UserTest_PropFile - ***********************user info is deleted********************
+23:14:09.438 [main] INFO  api.test.UserTest_PropFile - ***********************creating user********************
+23:14:19.137 [main] INFO  api.test.UserTest_PropFile - ***********************user is created********************
+23:14:19.262 [main] INFO  api.test.UserTest_PropFile - ***********************reading user info********************
+23:14:22.582 [main] INFO  api.test.UserTest_PropFile - ***********************user info is displayed********************
+23:14:22.602 [main] INFO  api.test.UserTest_PropFile - ***********************updating user info********************
+23:14:26.164 [main] INFO  api.test.UserTest_PropFile - ***********************user info is updated********************
+23:14:26.173 [main] INFO  api.test.UserTest_PropFile - ***********************deleting user info********************
+23:14:27.839 [main] INFO  api.test.UserTest_PropFile - ***********************user info is deleted********************
+13:02:22.847 [main] INFO  api.test.UserTest_PropFile - ***********************creating user********************
+13:02:26.772 [main] INFO  api.test.UserTest_PropFile - ***********************user is created********************
+13:02:26.787 [main] INFO  api.test.UserTest_PropFile - ***********************reading user info********************
+13:02:28.419 [main] INFO  api.test.UserTest_PropFile - ***********************user info is displayed********************
+13:02:28.422 [main] INFO  api.test.UserTest_PropFile - ***********************updating user info********************
+13:02:31.333 [main] INFO  api.test.UserTest_PropFile - ***********************user info is updated********************
+13:02:31.337 [main] INFO  api.test.UserTest_PropFile - ***********************deleting user info********************
+13:02:32.761 [main] INFO  api.test.UserTest_PropFile - ***********************user info is deleted********************
+13:14:43.952 [main] INFO  api.test.UserTest_PropFile - ***********************creating user********************
+13:14:49.787 [main] INFO  api.test.UserTest_PropFile - ***********************user is created********************
+13:14:49.806 [main] INFO  api.test.UserTest_PropFile - ***********************reading user info********************
+13:14:51.443 [main] INFO  api.test.UserTest_PropFile - ***********************user info is displayed********************
+13:14:51.447 [main] INFO  api.test.UserTest_PropFile - ***********************updating user info********************
+13:14:54.255 [main] INFO  api.test.UserTest_PropFile - ***********************user info is updated********************
+13:14:54.260 [main] INFO  api.test.UserTest_PropFile - ***********************deleting user info********************
+13:14:55.680 [main] INFO  api.test.UserTest_PropFile - ***********************user info is deleted********************
